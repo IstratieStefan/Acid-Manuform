@@ -16,7 +16,8 @@ The Acid ManuForm is a 40% split ergo keyboard with **rj11** connectors and **Ra
 |Set of Keycaps|1|
 |rj11 cable|1|
 |micro usb cable|1|
-
+|M3 10mm screws|14|
+|M2 10mm screws (with bolts)|8|
 # To do list
  - [ ] renders
  - [ ] thumb cluster gap
